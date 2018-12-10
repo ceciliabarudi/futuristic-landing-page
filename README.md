@@ -1,10 +1,10 @@
 # Futuristic Landing Page (December Hackathon Project)
-# Made by TEAM GUAPOS:
-## UX
+## Built by TEAM GUAPOS:
+### UX
 - [Paola Lefort] (https://www.linkedin.com/in/paola-lefort/)
 - [Vladimir Mabille] (https://medium.com/@vladspooker)
  
-## Dev
+### Dev
 - [Jack Watkins] (https://github.com/jackwatk)
 - [Cecilia Barudi] (https://github.com/ceciliabarudi)
 
@@ -18,7 +18,9 @@ Includes landing page that is split, with a slanted video taking up the right ha
 
 ## Backlog
 
-- Refactor and refine.
+- Code refactor.
+- Get view closer to hifi screens.
+- Add better contrast video.
 
 ### Done!
 - Ideation, research, design studio.
