@@ -2,38 +2,81 @@
 
 ## Description
 
-Description...
+The objective of our landing page is to get to know the new product and connect the new customer to our enviroment, facilitating a conversion.
 
 ## MVP
 
-Includes...
+Includes landing page that is split with a slant video taking up the right hand side. It has a CTA button, semantic HTML layout and CSS.
 
 ## Backlog
 
-### Done!
-- Points here.
-- Points here.
+- Logo.
 
-### To do!
-- Points here.
-- Points here.
+- Google Fonts.
+
+- Content.
+
+- Transparent Shoe.
+
+- Floating Shoe.
+
+- Slant Video section.
+
+### Done!
+- Github repo.
+- Readme file.
 
 ## Data structure
-### subtitles
 
+- HTML file split into two sections, within a main, with a nav header.
 
-### subtitles
+###Left-hand section
+
+- 2 div sections to partition the shoe image and font.
+
+###Right-hand section
+
+- Optimise HTML5 with a video tag.
 
 ## Tasklist
-- Task here.
-- Task here.
+- Task definition in order of priority.
+
+- Github repo.
+
+- Deploy.
+
+- Fork boilerplate.
+
+- Wireframes.
+
+- HTML layout.
+
+- CSS Planning.
+
+- CTA.
+
+- Video.
+
+- CSS.
+
+- Google Fonts.
+
+- Content right side.
+
+- Content left side.
+
+- Transparent Shoe.
+
+- Shoe Float transform.
+
+- Slant video.
 
 ## Links
 
 ### Git
 URls for the project repo and deploy
 [Link Repo](https://github.com/ceciliabarudi/futuristic-landing-page.git)
-[Link Deploy](https://ceciliabarudi.github.io/aha/)
+[Link Deploy](https://ceciliabarudi.github.io/futuristic-landing-page/)
 
 ### Slides
 URls for the project presentation (slides)
