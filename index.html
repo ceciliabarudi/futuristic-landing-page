@@ -1,6 +1,5 @@
 <!doctype html>
 <html lang="en">
-
 <head>
   <title>Futuristic Co.</title>
   <meta charset="utf-8">
@@ -8,31 +7,39 @@
   <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700" rel="stylesheet">
   <link rel="stylesheet" href="public/stylesheets/style.css">
 </head>
-
 <body>
   <nav>
-    <h1>Futuristic Co.</h1>
+    <img class='logo' src="./public/images/logo.png">
   </nav>
-  <header class="header">
+  <header>
+    <!--Call to action Section-->
+    <section class="shoe-section">
+      <div>
+        <div class="shoe-container">
+          <img class="shoe" src="./public//images//shoe3.png" alt="">
+        </div>
+        <div class="discover-container">
+          <h1>The future is now</h1>
+          <a>Discover Now <img class="arrow" src="./public/images/arrow-point-to-right.svg"></a>
+        </div>
+      </div>
+    </section>
     <!--Video Section-->
     <section>
-      <div>
-        <video>
-
+      <div class='video-container'>
+        <video id='vid' muted autoplay loop>
+            <source src="./public/images/futureisnow.mp4" type="video/mp4">
         </video>
       </div>
     </section>
-    <!--Call to action Section-->
-    <section>
-      <div>
-        <div>
-          <img src="" alt="">
-        </div>
-        <div>
-          <a>Discover Now</a>
-        </div>
-      </div>
-    </section>
   </header>
+  <main id="collab">
+      <h3><span>Air MAG</span> Collaboration</h3>
+      <p>Futiristic Co. makes meaningful stories last long in the future.
+          With this collaboration, Futiristic Co. brings back together the visionary model designed by Tinker Hatfield for Nike and Back to The Future.</p>
+      <div class="partners">
+        <img src="./public/images/BRANDS.png" alt="Futuristic Co.">
+      </div>
+    </main>
 </body>
 </html>
